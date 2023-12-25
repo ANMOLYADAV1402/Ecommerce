@@ -106,6 +106,7 @@ The project incorporates the following technologies and frameworks:
 ![image](https://github.com/ANMOLYADAV1402/Ecommerce/assets/81957738/dedf10ce-3088-4cdf-a062-46d83daf636f)
 
 **Order Summary**
+
 ![image](https://github.com/ANMOLYADAV1402/Ecommerce/assets/81957738/f8142aed-507e-4fd2-91fa-88fbd981fa36)
 
 ## Precaution
