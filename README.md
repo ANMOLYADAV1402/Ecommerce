@@ -99,6 +99,7 @@ The project incorporates the following technologies and frameworks:
 <img width="1392" alt="pic13" src="https://github.com/ANMOLYADAV1402/Ecommerce/assets/81957738/a097a633-05f2-4912-bb81-61fe7a3fdec8">
 
 **Payment**
+
 ![image](https://github.com/ANMOLYADAV1402/Ecommerce/assets/81957738/87a12f6b-16b1-42d6-a680-8eb5c7de9f96)
 
 **Successful Payment**
