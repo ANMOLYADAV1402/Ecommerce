@@ -18,9 +18,9 @@ The project adopts a methodical and modularized approach to ensure ease of maint
 
 ## Process of Installation
 
-To locally set up the project, follow these steps:
+To locally set up the project, follow the following steps:
 
-1. Clone the repository: `git clone https://github.com/Ankit-Ransh/E-commerce.git`
+1. Clone the repository: `git clone https://github.com/ANMOLYADAV1402/Ecommerce.git`
 2. Navigate to the project directory: `cd Ecommerce-React-Project`
 3. Install dependencies for the client and server:
    - For the client, run `cd Frontend/e-commerce-app && npm install`
